@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Helen welcomes you!"
+date:   2016-03-28 20:21:08 +0300
+categories: Helen site
+---
+Welcome to the site of the Helen programming language.
+
+Although the history of this languages dates back to January 2014, the language
+concept and tools hadn't achieved the "mature" state until the beginning of 2016.
+And now, this is the time for the site.
+
+Remember that can download the sources and binaries (currently Windows-only)
+on the [Github repository][github-repo] of this project.
+
+[github-repo]: https://github.com/hyst329/helen-llvm "Github repo"
