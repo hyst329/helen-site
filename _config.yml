@@ -10,8 +10,8 @@ title: Helen - A Programming Language
 email: trolleybus.1329@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A site about Helen programming language, created with Jekyll by hyst329.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://hyst329.github.io/helen-site" # the base hostname & protocol for your site
+baseurl: "/helen-site" # the subpath of your site, e.g. /blog
+url: "http://hyst329.github.io" # the base hostname & protocol for your site
 twitter_username: trolley813
 github_username:  hyst329
 
