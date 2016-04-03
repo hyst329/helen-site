@@ -9,7 +9,8 @@ The new version of Helen, v0.1.3, is released today. It's mostly a bugfix
 release, which doesn't add any new features both to the language and the tools.
 
 Main features of this release are:
-1. First, a bug with string literals was fixed. Essentially, the references to
+
+- 1st, a bug with string literals was fixed. Essentially, the references to
 string methods were not loaded to the resulting object, when a string was
 constructed from a literal.
 
@@ -23,6 +24,6 @@ constructed from a literal.
 As a consequence, all the standard library `libhelstd` renders almost unusable.
 This annoying bug was finally fixed, so now you can deal with strings.
 
-2. Second, there was also a bug in `helmake` tool for generating make files.
+- 2nd, there was also a bug in `helmake` tool for generating make files.
 A bug was in the bitcode file name - it was absolute instead of being relative,
 which lead to building errors with `make`.
