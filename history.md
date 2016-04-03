@@ -28,7 +28,8 @@ the language from then is named ***Helen***.
 to support Helen.
 - **2016-03-16** Helen v0.1.1 released.
 - **2016-03-18** Helen v0.1.2 released.
+- **2016-04-03** Helen v0.1.3 released.
 
 ### Future dates
-- ***2016-04-13*** v0.1.3 release
+
 - ***Probably between 2016-04-24 and 2016-05-07*** v0.2.0 release.
