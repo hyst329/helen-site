@@ -8,11 +8,13 @@ Version 0.1.4 of Helen is released. However, it doesn't add any new features,
 except the new syntax rules for the future feature --- generics.
 
 The generic function syntax looks like this:
+
 ```
 fun generic[T] f (T a, T b, int c) -> T
 # The code comes here
 endfun
 ```
+
 Here `T` is the type parameter; when a specific instance of `f`, e. g. `f[int]`
 is created, all occurrences of `T` are replaced by `int` (just like a feature
   in Java/C#, also called generics, and equivalent C++'s templates).
