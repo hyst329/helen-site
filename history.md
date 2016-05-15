@@ -33,6 +33,6 @@ to support Helen.
 - **2016-04-18** First release of a `language-helen` Atom plugin for Helen.
 - **2016-04-19** Helen v0.1.5 released.
 
-### Future dates
-
-- ***Probably between 2016-04-24 and 2016-05-07*** v0.2.0 release.
+### Future dates (provisional)
+- ***Scheduled to 2016-05-27*** v0.2.0-alpha1 release
+- ***Probably between 2016-06-10 and 2016-06-30*** v0.2.0 release.
